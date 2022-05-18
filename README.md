@@ -1,5 +1,5 @@
   <div>
-  <h1> The exponentiated transmuted inverted beta (ET-IB) distribution </h1> 
+  <h1> The exponentiated transmuted-inverted beta (ET-IB) distribution </h1> 
 </div>
 
 <div>
